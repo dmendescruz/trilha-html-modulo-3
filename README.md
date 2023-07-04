@@ -8,5 +8,6 @@ Este desafio consiste em treinar a estruturação de sites, e também aplicar co
 ## Links úteis
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
+- [Clique aqui](https://dmendescruz.github.io/trilha-html-modulo-3/) para ver o resultado final
 
 
